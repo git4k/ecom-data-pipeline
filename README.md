@@ -1,4 +1,4 @@
-#E-Commerce End-to-End Analytics Pipeline using AWS Glue & Snowflake
+# E-Commerce End-to-End Analytics Pipeline using AWS Glue & Snowflake
 
 
 An end-to-end cloud-native data pipeline that ingests live e-commerce data 
