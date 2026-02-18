@@ -1,4 +1,5 @@
-E-Commerce Data Pipeline
+ E-Commerce End-to-End Analytics Pipeline using AWS Glue & Snowflake
+
 
 An end-to-end cloud-native data pipeline that ingests live e-commerce data 
 from a REST API, transforms it using AWS Glue, stores it in S3 as Parquet, 
